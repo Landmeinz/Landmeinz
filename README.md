@@ -26,12 +26,8 @@
 - bring people / communities closer together
 - focuses on the design / UI of the product
 
-### 👇 Demo My Recently Built App Called Houseplant Palace 👇
 
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -63,9 +59,10 @@
 
 </td><td valign="top" width="33%">
 
-
-
 </td></tr></table>  
+
+
+### 👇 Demo My Recently Built App Called Houseplant Palace 👇
 
 
 
