@@ -27,7 +27,7 @@
 - focuses on the design / UI of the product
 
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 ### Frontend  
 <div align="center">  
@@ -45,8 +45,6 @@
 
 </td><td valign="top" width="50%">
 
-
-
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
@@ -56,8 +54,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
 </div>
-
-</td><td valign="top" width="50%">
 
 </td></tr></table>  
 
