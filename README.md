@@ -8,11 +8,12 @@
 </a>
 
 
-### 🔭 Me and 4 others are currently working on Creative Cook:
-#### Client project: https://github.com/jgaffaney/Creative_Cook
+### 🔭 Me and 4 others just finished up an MVP called Creative Cook:
+#### Client project: hhttps://github.com/Landmeinz/Creative_Cook
 - Chef Sean wants to build an app to encourage people to cook more by exploring new ingredients & recipes.
 - Home cooks will explore ingredients and all of the complementary ingredients to the base ingredient.
-- User's will create a three ingredient combo, then user can search the internet for recipes including those ingredients.
+- User's will create a three ingredient combo and can search the internet for recipes including those three ingredients.
+- https://creativecook.herokuapp.com
 
 
 ### 🌱 Currnet Side Project: building out my personal website
