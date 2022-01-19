@@ -9,7 +9,7 @@
 
 
 ### 🔭 Me and 4 others just finished up an MVP called Creative Cook:
-#### Client project: hhttps://github.com/Landmeinz/Creative_Cook
+#### Client project: https://github.com/Landmeinz/Creative_Cook
 - Chef Sean wants to build an app to encourage people to cook more by exploring new ingredients & recipes.
 - Home cooks will explore ingredients and all of the complementary ingredients to the base ingredient.
 - User's will create a three ingredient combo and can search the internet for recipes including those three ingredients.
