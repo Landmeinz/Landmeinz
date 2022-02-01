@@ -28,7 +28,7 @@
 - focuses on the design / UI of the product
 
 
-<table><tr><td valign="top" width="50%">
+<!-- <table><tr><td valign="top" width="50%">
 
 ### Frontend  
 <div align="center">  
@@ -56,7 +56,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
 </div>
 
-</td></tr></table>  
+</td></tr></table>   -->
 
 
 ### 👇 Demo My Recently Built App Called Houseplant Palace 👇
