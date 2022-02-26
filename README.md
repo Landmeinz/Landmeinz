@@ -8,7 +8,7 @@
 </a>
 
 
-### 🔭 Me and 4 others just finished up an MVP called Creative Cook:
+### 🔭 Me and 4 others recently created an MVP called Creative Cook:
 #### Client project: https://github.com/Landmeinz/Creative_Cook
 - Chef Sean wants to build an app to encourage people to cook more by exploring new ingredients & recipes.
 - Home cooks will explore ingredients and all of the complementary ingredients to the base ingredient.
@@ -16,10 +16,10 @@
 - https://creativecook.herokuapp.com
 
 
-### 🌱 Currnet Side Project: building out my personal website
+<!-- ### 🌱 Currnet Side Project: building out my personal website
 #### Repo: https://github.com/Landmeinz/personal-website 
 #### 🖥 Current site still live: 
-#### Website: https://www.ericmeinzer.com/  
+#### Website: https://www.ericmeinzer.com/   -->
 
 
 ### 👯 I’m always looking to collaborate on projects that:
