@@ -6,10 +6,16 @@
 - https://creativecook.herokuapp.com
 
 
+
+### 👇 Demo My Recently Built App Called Houseplant Palace 👇
+
+https://houseplant-palace-2022.herokuapp.com/#/dashboard
+
+
+
 ### 👯 I’m always looking to collaborate on projects 
 
 
-<!--  -->
 
 <table><tr><td valign="top" width="100%">
 
@@ -26,12 +32,7 @@
 
 </td></tr></table> 
 
-
-### 👇 Demo My Recently Built App Called Houseplant Palace 👇
-
-https://houseplant-palace-2022.herokuapp.com/#/dashboard
-
-
+<!--  -->
 
 <!--
 **Landmeinz/Landmeinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
