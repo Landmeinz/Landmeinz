@@ -1,4 +1,4 @@
-###Currently working full time for a HCM company building software
+### Currently working full time for a HCM company building software
 
 ### 🔭 Me and 4 others recently created an MVP called Creative Cook:
 #### Client project: https://github.com/Landmeinz/Creative_Cook
