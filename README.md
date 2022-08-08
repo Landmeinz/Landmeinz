@@ -1,12 +1,4 @@
-<a href="https://github.com/Landmeinz/Landmeinz">
-  <img height="180"align="center" src="https://github-readme-stats.vercel.app/api?username=Landmeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Landmeinz's GitHub Stats" />
-</a>
-  
-<a href="https://github.com/Landmeinz/Landmeinz">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Landmeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" 
-       alt="Landmeinz's GitHub Stats" />
-</a>
-
+###Currently working full time for a HCM company building software
 
 ### 🔭 Me and 4 others recently created an MVP called Creative Cook:
 #### Client project: https://github.com/Landmeinz/Creative_Cook
@@ -14,12 +6,6 @@
 - Home cooks will explore ingredients and all of the complementary ingredients to the base ingredient.
 - User's will create a three ingredient combo and can search the internet for recipes including those three ingredients.
 - https://creativecook.herokuapp.com
-
-
-<!-- ### 🌱 Currnet Side Project: building out my personal website
-#### Repo: https://github.com/Landmeinz/personal-website 
-#### 🖥 Current site still live: 
-#### Website: https://www.ericmeinzer.com/   -->
 
 
 ### 👯 I’m always looking to collaborate on projects that:
