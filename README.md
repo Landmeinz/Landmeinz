@@ -1,4 +1,4 @@
-### 🔭 Me and 4 others recently created an MVP called Creative Cook:
+### 🔭 Me and 4 others created an MVP called Creative Cook:
 #### Project: https://github.com/Landmeinz/Creative_Cook
 - Chef Sean wants to build an app to encourage people to cook more by exploring new ingredients & recipes.
 - Home cooks will explore ingredients and all of the complementary ingredients to the base ingredient.
