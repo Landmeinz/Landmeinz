@@ -1,21 +1,7 @@
-### 🔭 Me and 4 others created an MVP called Creative Cook:
-#### Project: https://github.com/Landmeinz/Creative_Cook
-- Chef Sean wants to build an app to encourage people to cook more by exploring new ingredients & recipes.
-- Home cooks will explore ingredients and all of the complementary ingredients to the base ingredient.
-- User's will create a three ingredient combo and can search the internet for recipes including those three ingredients.
-- https://creativecook.herokuapp.com
-
-
-
-### 👇 Demo My Recently Built App Called Houseplant Palace 👇
-
-https://houseplant-palace-2022.herokuapp.com/#/dashboard
-
-
+- 🔭 I’m currently working on ...
+tinker https://github.com/Landmeinz/tinker
 
 ### 👯 I’m always looking to collaborate on projects 
-
-
 
 <table><tr><td valign="top" width="100%">
 
