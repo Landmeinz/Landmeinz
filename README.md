@@ -1,6 +1,6 @@
 🔭 I’m currently working on \
 ericmeinzer.com: https://github.com/Landmeinz/ericmeinzer \
-tinker: https://github.com/Landmeinz/tinker
+tinker.group: https://github.com/Landmeinz/tinker
 
 ### 👯 I’m always looking to collaborate on projects 
 
