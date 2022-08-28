@@ -1,5 +1,6 @@
-🔭 I’m currently working on ... \
-tinker https://github.com/Landmeinz/tinker
+🔭 I’m currently working on \
+ericmeinzer.com: https://github.com/Landmeinz/ericmeinzer \
+tinker: https://github.com/Landmeinz/tinker
 
 ### 👯 I’m always looking to collaborate on projects 
 
