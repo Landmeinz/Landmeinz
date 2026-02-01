@@ -3,6 +3,7 @@
 less is more && yes is more
 
 full-stack dev building clean, useful software:
+
 React + TypeScript · C#/.NET · SQL
 
 ## Focus
