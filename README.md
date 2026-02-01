@@ -1,12 +1,10 @@
-# Eric 👋
+## Eric 👋
 
 less is more && yes is more
 
-full-stack dev building clean, useful software:
+full-stack dev building clean, useful software: React + TypeScript · C#/.NET · SQL
 
-React + TypeScript · C#/.NET · SQL
-
-## Focus
+#### Focus
 embrace the process && create and build
 
 </td></tr></table> 
