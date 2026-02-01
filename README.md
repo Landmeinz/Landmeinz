@@ -4,7 +4,7 @@ less is more && yes is more
 
 full-stack dev building clean, useful software: **React + TypeScript · C#/.NET · SQL**
 
-embrace the process && create and build
+embrace the process && design and build
 
 </td></tr></table> 
 
